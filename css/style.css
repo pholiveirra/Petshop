@@ -1,0 +1,9 @@
+body {
+    background-image: url('../img/pet.jpg');
+    background-size: cover; /* Garante que a imagem cubra todo o background */
+    background-position: center; /* Posiciona a imagem no centro */
+    background-attachment: fixed; /* Fixa a imagem no viewport enquanto rola a 
+    página */
+    
+  }
+  
